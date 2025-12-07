@@ -31,7 +31,7 @@ export default function Home({allPostsData}) {
         <title>{siteTile}</title>
       </Head>
       <section  className={utilStyles.headingMd}>
-        <p>プロフィールです ああああああああああああああああああああああああああああああああああああああああああ</p>
+        <p>プロフィールです プロフィールです プロフィールです プロフィールです プロフィールです プロフィールです プロフィールです プロフィールです プロフィールです </p>
       </section>
 
       <section>
